@@ -1,0 +1,9 @@
+com\istinurhalimah\kuis1035\repo\CvRepo.class
+com\istinurhalimah\kuis1035\controller\CvController.class
+com\istinurhalimah\kuis1035\entity\Nilai_1035.class
+com\istinurhalimah\kuis1035\service\NilaiService.class
+com\istinurhalimah\kuis1035\Kuis1035Application.class
+com\istinurhalimah\kuis1035\repo\NilaiRepo.class
+com\istinurhalimah\kuis1035\entity\Cv_1035.class
+com\istinurhalimah\kuis1035\controller\NilaiController.class
+com\istinurhalimah\kuis1035\service\CvService.class
